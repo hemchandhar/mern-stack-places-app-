@@ -1,1 +1,1 @@
-"# mern-stack-places-app-" 
+# Places Web Application Using MERN Stack
